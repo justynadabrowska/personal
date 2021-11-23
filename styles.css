@@ -236,6 +236,11 @@ body {
 
   @media only screen and (max-width: 768px) {
 
+    #hero {
+        background-attachment: scroll;
+        background-position: center center;
+    }
+
     .hamburger {
         display: block;
         cursor: pointer;
